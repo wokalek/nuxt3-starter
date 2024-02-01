@@ -10,17 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.8.2",
+    "nuxt": "^3.10.0",
     "nuxt-icons": "^3.2.1",
-    "sass": "^1.69.5",
-    "vue": "^3.3.10",
+    "sass": "^1.70.0",
+    "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.0.4",
+    "@nuxt/devtools": "^1.0.8",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
-    "@nuxtjs/tailwindcss": "^6.10.1",
-    "eslint": "^8.55.0"
+    "@nuxtjs/tailwindcss": "^6.11.2",
+    "eslint": "^8.56.0"
   }
 }
